@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-11T08:23:00.462Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="bBky4Mcf5kiTLGJVbfTe" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-11T09:24:08.163Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="5fktghQj1OcbMxmhhzXx" version="13.0.9" type="github">
   <diagram id="86CyNWyPQC0UojKd5ZI3" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="3000" math="0" shadow="0">
       <root>
@@ -235,8 +235,44 @@
         <mxCell id="vh8VERm719rduAOHgRj4-39" value="防护用具实景穿戴演练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1380" width="60" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-49" target="vh8VERm719rduAOHgRj4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-49" target="vh8VERm719rduAOHgRj4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-49" target="vh8VERm719rduAOHgRj4-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vh8VERm719rduAOHgRj4-49" value="人员行为学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1770" width="120" height="60" as="geometry" />
+          <mxGeometry x="475.16" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-50" target="vh8VERm719rduAOHgRj4-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-50" value="全方位讲解“操作规程”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303.29" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-52" value="标准操作规程学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444.85" y="1920" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-53" value="以三维交互形式，讲解规程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515.4699999999999" y="1920" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-54" value="标准操作规程考核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585.4699999999999" y="1920" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-59" value="安全事故模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="429.38" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-60" value="故障排查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.13" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-61" value="安全事故抢修" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="429.38" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-62" value="真实案例再现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="2290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
