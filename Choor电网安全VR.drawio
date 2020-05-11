@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-11T09:24:08.163Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="5fktghQj1OcbMxmhhzXx" version="13.0.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-11T09:53:07.390Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="mxF-Zq2BZYbR7C1Mo2hN" version="13.0.9" type="github">
   <diagram id="86CyNWyPQC0UojKd5ZI3" name="Page-1">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1390" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,17 +262,137 @@
         <mxCell id="vh8VERm719rduAOHgRj4-54" value="标准操作规程考核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585.4699999999999" y="1920" width="40" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-59" target="vh8VERm719rduAOHgRj4-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-59" target="vh8VERm719rduAOHgRj4-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-59" target="vh8VERm719rduAOHgRj4-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vh8VERm719rduAOHgRj4-59" value="安全事故模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429.38" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-60" target="vh8VERm719rduAOHgRj4-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-60" target="vh8VERm719rduAOHgRj4-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-60" target="vh8VERm719rduAOHgRj4-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vh8VERm719rduAOHgRj4-60" value="故障排查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278.13" y="2290" width="120" height="60" as="geometry" />
+          <mxGeometry x="137.67000000000002" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-61" target="vh8VERm719rduAOHgRj4-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh8VERm719rduAOHgRj4-61" value="安全事故抢修" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429.38" y="2290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-62" target="vh8VERm719rduAOHgRj4-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-62" target="vh8VERm719rduAOHgRj4-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vh8VERm719rduAOHgRj4-62" value="真实案例再现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="2290" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-63" value="常见故障排查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97.67" y="2430" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-64" target="vh8VERm719rduAOHgRj4-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-64" target="vh8VERm719rduAOHgRj4-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-64" target="vh8VERm719rduAOHgRj4-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-64" value="危险区域故障排查训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="177.67000000000002" y="2430" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-65" value="高空" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126.58000000000001" y="2620" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-66" value="带电" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176.58" y="2620" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-67" value="故障模拟考核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263.29" y="2430" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-73" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228.77" y="2620" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-75" target="vh8VERm719rduAOHgRj4-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-75" value="多种安全事故紧急抢修救助训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454.07" y="2390" width="70.62" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="389.38" y="2510" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-78" value="触电" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399.38" y="2520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-79" value="坠落" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443.45" y="2520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-80" value="失血包扎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488.76" y="2520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-81" value="心肺复舒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534.85" y="2520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-82" value="垮塌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399.38" y="2580" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-83" value="急救" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="443.45" y="2580" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-84" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488.76" y="2580" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-88" target="vh8VERm719rduAOHgRj4-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-88" target="vh8VERm719rduAOHgRj4-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-88" value="典型安全事故现场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="664.53" y="2430" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-89" target="vh8VERm719rduAOHgRj4-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-89" value="再现真实事故现场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897.5" y="2430" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-90" value="第三视角观看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-91" value="观看模式学习处理方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="2540" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-92" target="vh8VERm719rduAOHgRj4-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vh8VERm719rduAOHgRj4-92" target="vh8VERm719rduAOHgRj4-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-92" value="考核模式在关键点提供选项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="2540" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-93" value="正确&lt;br&gt;避免事故" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="2700" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vh8VERm719rduAOHgRj4-97" value="错误&lt;br&gt;事故发生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="2700" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
