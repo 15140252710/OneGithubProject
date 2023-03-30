@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T02:01:11.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ul8lVArDrmfgdpGvIG5U" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T08:10:41.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qP6Hg2OF8m_rwEQzMV-S" version="21.1.1" type="github">
   <diagram id="exjW6TpwlfhhMM9tGB0L" name="第 1 页">
-    <mxGraphModel dx="1422" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dhKK24aEWWIvLG82vy6N-1" value="采集端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-1" value="采集端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="181" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-2" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="529" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="dhKK24aEWWIvLG82vy6N-2" value="服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="541" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-3" value="展示端" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-3" value="展示端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="813" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-4" value="摄像头摆放位置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-4" value="摄像头摆放位置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1122" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry y="284" width="1376" height="247" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-36" value="牙床旁边" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-5" vertex="1">
@@ -37,16 +37,16 @@
         <mxCell id="dhKK24aEWWIvLG82vy6N-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-5" vertex="1">
           <mxGeometry x="165" y="158.5" width="945" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-22" value="直播服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-5" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-22" value="直播服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dhKK24aEWWIvLG82vy6N-5" vertex="1">
           <mxGeometry x="538" y="16" width="120" height="210" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-7" value="口腔" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14" y="299" width="64" height="221" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-10" value="画面上传" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-10" value="画面上传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="355.13" y="208" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-11" value="画面获取" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-11" value="画面获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="814" y="211" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -55,13 +55,13 @@
             <mxPoint x="1365" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-13" value="" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-13" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="405" y="143" width="20.25" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-15" value="" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-15" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="721" y="143" width="20.25" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-16" value="" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-16" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="1017" y="146.5" width="20.25" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-18" value="全景相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -73,7 +73,7 @@
         <mxCell id="dhKK24aEWWIvLG82vy6N-20" value="高清相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="181" y="449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-21" value="推流" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-21" value="推流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="355" y="302" width="120" height="208" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dhKK24aEWWIvLG82vy6N-21" target="dhKK24aEWWIvLG82vy6N-22" edge="1">
@@ -85,28 +85,28 @@
         <mxCell id="dhKK24aEWWIvLG82vy6N-24" value="VR头盔&lt;br&gt;【虚拟现实】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="757" y="299" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-27" value="全景" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-27" value="全景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="885" y="299" width="120" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-29" value="3D" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-29" value="3D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="885" y="332" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-30" value="AR眼镜&lt;br&gt;【混合现实】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="757" y="372" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-32" value="头盔版" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-32" value="头盔版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="885" y="374" width="120" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-33" value="AR眼镜版" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-33" value="AR眼镜版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="885" y="407" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-34" value="高清屏幕" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="755" y="449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-35" value="观看画面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-35" value="观看画面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="885" y="465.5" width="120" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry y="549" width="1376" height="324" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-46" value="1.手术台周围&lt;br&gt;2.挂接到无影灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
@@ -124,28 +124,28 @@
         <mxCell id="dhKK24aEWWIvLG82vy6N-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="165" y="231" width="945" height="70.04" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-52" value="直播服务器" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-52" value="直播服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="538" y="17" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-56" value="高清相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
-          <mxGeometry x="172" y="236.02" width="120" height="60" as="geometry" />
+          <mxGeometry x="181" y="237" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-65" value="高清屏幕" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="751" y="236.02" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-66" value="观看画面" style="rounded=1;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
-          <mxGeometry x="881" y="252.52" width="120" height="27" as="geometry" />
+        <mxCell id="dhKK24aEWWIvLG82vy6N-66" value="屏幕观看画面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
+          <mxGeometry x="881" y="236.02" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-55" value="高清相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
-          <mxGeometry x="172" y="128.72" width="120" height="60" as="geometry" />
+          <mxGeometry x="181" y="127" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-62" value="高清虚拟屏幕" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="749" y="132" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-63" value="头盔版" style="rounded=1;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-63" value="头盔版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="881" y="148.5" width="120" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-64" value="AR眼镜版" style="rounded=1;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-64" value="AR眼镜版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="881" y="115.65" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-67" value="1.医生手术刀&lt;br&gt;2.手术台周围&lt;br&gt;3.挂接到无影灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
@@ -154,22 +154,25 @@
         <mxCell id="dhKK24aEWWIvLG82vy6N-59" value="全景展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="749" y="22.999999999999993" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-61" value="全景3D" style="rounded=1;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-61" value="全景3D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="877" y="52.67999999999995" width="120" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-60" value="VR全景" style="rounded=1;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-60" value="VR全景" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="877" y="19.67999999999995" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-54" value="全景相机" style="rounded=0;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
-          <mxGeometry x="169" y="23.000000000000036" width="120" height="60" as="geometry" />
+          <mxGeometry x="181" y="23.780000000000037" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-69" value="头盔+基础实训操作（视频非实时）" style="rounded=1;whiteSpace=wrap;html=1;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-69" value="头盔+基础实训操作（视频非实时）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="dhKK24aEWWIvLG82vy6N-45" vertex="1">
           <mxGeometry x="881" y="183" width="208" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="1kZsWb9nxNqSr37uVQKi-1" value="实时画面+病人实时生命体征监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dhKK24aEWWIvLG82vy6N-45">
+          <mxGeometry x="881" y="269.02" width="208" height="27" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-53" value="乳腺" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14" y="564" width="64" height="299" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-57" value="推流" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dhKK24aEWWIvLG82vy6N-57" value="推流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="355" y="567" width="120" height="279" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dhKK24aEWWIvLG82vy6N-57" target="dhKK24aEWWIvLG82vy6N-52" edge="1">
@@ -177,6 +180,18 @@
             <mxPoint x="477" y="703" as="sourcePoint" />
             <mxPoint x="527" y="653" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1kZsWb9nxNqSr37uVQKi-2" value="可以观看demo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kZsWb9nxNqSr37uVQKi-3" value="可以实现但未制作demo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="166" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kZsWb9nxNqSr37uVQKi-4" value="有技术难点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="312" y="896" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1kZsWb9nxNqSr37uVQKi-5" value="有较大技术难点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="458" y="896" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
