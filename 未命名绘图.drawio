@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T03:23:19.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Q2b05i0HccKA87rEuPkK" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T03:25:04.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="g_CvywxQAaI4ub5qufAV" version="21.1.1" type="github">
   <diagram id="exjW6TpwlfhhMM9tGB0L" name="第 1 页">
     <mxGraphModel dx="1434" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="inn9SJ7NxdcRoOLQXIyc-61" value="" style="whiteSpace=wrap;html=1;fillColor=#BEEBBE;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="inn9SJ7NxdcRoOLQXIyc-61" value="" style="whiteSpace=wrap;html=1;fillColor=#BEEBBE;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="139" y="73" width="1331" height="623" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-1" value="采集端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
@@ -93,22 +93,19 @@
         <mxCell id="1kZsWb9nxNqSr37uVQKi-4" value="有技术难点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="467" y="597" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="inn9SJ7NxdcRoOLQXIyc-2" value="口腔" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="inn9SJ7NxdcRoOLQXIyc-2" value="口腔" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="214" y="214" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="inn9SJ7NxdcRoOLQXIyc-3" value="乳腺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="inn9SJ7NxdcRoOLQXIyc-3" value="乳腺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="366" y="214" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-69" value="头盔+基础实训操作（视频非实时）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="35.00026162790709" y="1219" width="208.1511627906977" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="inn9SJ7NxdcRoOLQXIyc-17" value="AR眼镜&lt;br&gt;【混合现实】" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="inn9SJ7NxdcRoOLQXIyc-17" value="AR眼镜&lt;br&gt;【混合现实】" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="1082" y="387.33000000000004" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="inn9SJ7NxdcRoOLQXIyc-18" value="VR头盔&lt;br&gt;【虚拟现实】" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="inn9SJ7NxdcRoOLQXIyc-18" value="VR头盔&lt;br&gt;【虚拟现实】" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="1082" y="305.04" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="inn9SJ7NxdcRoOLQXIyc-48" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;rounded=0;glass=0;gradientColor=#7ea6e0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="inn9SJ7NxdcRoOLQXIyc-48" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;rounded=0;glass=0;gradientColor=#7ea6e0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="198" y="298" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="dhKK24aEWWIvLG82vy6N-36" value="牙床旁边" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" parent="inn9SJ7NxdcRoOLQXIyc-48" vertex="1">
@@ -129,10 +126,10 @@
         <mxCell id="dhKK24aEWWIvLG82vy6N-22" value="直播服务器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="880" y="318" width="135.61" height="208.29" as="geometry" />
         </mxCell>
-        <mxCell id="inn9SJ7NxdcRoOLQXIyc-16" value="高清屏幕&lt;br&gt;【其他平台】" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="inn9SJ7NxdcRoOLQXIyc-16" value="高清屏幕&lt;br&gt;【其他平台】" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="1082" y="472.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="inn9SJ7NxdcRoOLQXIyc-19" value="实时画面+病人实时生命体征监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="inn9SJ7NxdcRoOLQXIyc-19" value="实时画面+病人实时生命体征监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="489" width="185" height="27" as="geometry" />
         </mxCell>
       </root>
