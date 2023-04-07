@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T01:35:58.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_ngCDvF3KQXogDIFg60o" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T01:36:48.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OFnA7KOqunwbHCplpCKx" version="21.1.4" type="github">
   <diagram id="exjW6TpwlfhhMM9tGB0L" name="第 1 页">
     <mxGraphModel dx="1434" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -104,9 +104,6 @@
         </mxCell>
         <mxCell id="inn9SJ7NxdcRoOLQXIyc-3" value="乳腺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="366" y="214" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dhKK24aEWWIvLG82vy6N-69" value="头盔+基础实训操作（视频非实时）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="35.00026162790709" y="1219" width="208.1511627906977" height="27" as="geometry" />
         </mxCell>
         <mxCell id="inn9SJ7NxdcRoOLQXIyc-17" value="XR眼镜&lt;br&gt;【混合现实】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1082" y="393.00000000000006" width="120" height="60" as="geometry" />
