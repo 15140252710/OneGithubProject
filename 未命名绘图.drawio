@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T03:22:51.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Y60QcgZlCCgw3WZtq45J" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T07:23:31.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LA9pXbBslyRq7AHathDN" version="21.1.4" type="github">
   <diagram id="exjW6TpwlfhhMM9tGB0L" name="第 1 页">
-    <mxGraphModel dx="1434" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-51" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="149" y="83" width="1331" height="623" as="geometry" />
+          <mxGeometry x="149" y="83" width="1331" height="799" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-52" value="采集端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="548" y="140" width="120" height="60" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="1141" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-55" value="摄像头部署位置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="303" y="136.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="221" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="188" y="294" width="1249" height="277.57" as="geometry" />
@@ -91,19 +91,19 @@
           <mxGeometry x="1220" y="345" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-77" value="可以观看效果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="185" y="607" width="120" height="60" as="geometry" />
+          <mxGeometry x="185" y="799" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-78" value="可以实现但未制作示例" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="331" y="607" width="120" height="60" as="geometry" />
+          <mxGeometry x="331" y="799" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-79" value="核心技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="477" y="607" width="120" height="60" as="geometry" />
+          <mxGeometry x="477" y="799" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-80" value="口腔" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="224" y="224" width="120" height="60" as="geometry" />
+          <mxGeometry x="224" y="260" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-81" value="乳腺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="376" y="224" width="120" height="60" as="geometry" />
+          <mxGeometry x="376" y="262" width="120" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-82" value="XR眼镜&lt;br&gt;【混合现实】" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1092" y="314.71000000000004" width="120" height="60" as="geometry" />
@@ -142,6 +142,27 @@
         </UserObject>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-93" value="生命体征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1347" y="484" width="65" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="gRRv3ZpaM_ob45SDTD8p-94" value="语音控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="691" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRRv3ZpaM_ob45SDTD8p-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gRRv3ZpaM_ob45SDTD8p-95" target="gRRv3ZpaM_ob45SDTD8p-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRRv3ZpaM_ob45SDTD8p-95" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="857" y="691" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRRv3ZpaM_ob45SDTD8p-98" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1151.58" y="685" as="sourcePoint" />
+            <mxPoint x="1151.58" y="576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRRv3ZpaM_ob45SDTD8p-101" value="健康人体模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1183" y="583" width="128" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gRRv3ZpaM_ob45SDTD8p-102" value="通过语音控制，在软件端，实时支出医生讲解的病灶位置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1183" y="630" width="128" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
