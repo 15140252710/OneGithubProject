@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T08:30:05.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6Gtvub-KoZWXphqJCdTD" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T00:55:37.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FhUkZj8p2JEPvWGAEZ-u" version="21.1.5" type="github">
   <diagram id="exjW6TpwlfhhMM9tGB0L" name="第 1 页">
-    <mxGraphModel dx="1434" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,13 +20,13 @@
           <mxGeometry x="228.5" y="250" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="188" y="294" width="1121" height="277.57" as="geometry" />
+          <mxGeometry x="190" y="217" width="1117" height="353" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-57" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="399" y="395" width="889" height="71" as="geometry" />
+          <mxGeometry x="399" y="309" width="889" height="71" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-58" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="398" y="309" width="889" height="71" as="geometry" />
+          <mxGeometry x="398" y="396" width="889" height="71" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-59" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="399" y="480" width="888" height="71" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="606.5" y="224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-62" value="画面获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1006" y="221" width="120" height="60" as="geometry" />
+          <mxGeometry x="1006" y="224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-63" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -85,10 +85,10 @@
           <mxGeometry x="1085" y="517" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-75" value="头盔版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="1085" y="312" width="120" height="27" as="geometry" />
+          <mxGeometry x="1085" y="399" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-76" value="AR眼镜版" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1085" y="345" width="120" height="27" as="geometry" />
+          <mxGeometry x="1085" y="432" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-77" value="可以观看效果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="185" y="799" width="120" height="60" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="477" y="799" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-82" value="XR眼镜&lt;br&gt;【混合现实】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="957" y="314.71000000000004" width="120" height="60" as="geometry" />
+          <mxGeometry x="957" y="401.71000000000004" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-83" value="VR头盔&lt;br&gt;【虚拟现实】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="957" y="483.03999999999996" width="120" height="60" as="geometry" />
@@ -117,15 +117,15 @@
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-89" value="1.医生手术刀&lt;br&gt;2.手术台周围&lt;br&gt;3.挂接到无影灯" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="gRRv3ZpaM_ob45SDTD8p-84" vertex="1">
           <mxGeometry x="8.83" y="93.21" width="135.17" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="gRRv3ZpaM_ob45SDTD8p-90" value="直播服务器&lt;br&gt;(实时消息传输协议&lt;br&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;align=center;" parent="1" vertex="1">
+        <mxCell id="gRRv3ZpaM_ob45SDTD8p-90" value="直播服务器&lt;br&gt;(RTMP实时消息传输协议)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;align=center;" parent="1" vertex="1">
           <mxGeometry x="766.5" y="328.64" width="117" height="208.29" as="geometry" />
         </mxCell>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-91" value="高清屏幕&lt;br&gt;【其他平台】" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="957" y="400.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="957" y="314.5" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="实时画面+病人实时生命体征监测" link="https://jt.vg3dy.com/WEB3D/anli/External/officialWebsitePorject/package/renti/dist8/index.html" id="gRRv3ZpaM_ob45SDTD8p-92">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-            <mxGeometry x="1085" y="417" width="185" height="27" as="geometry" />
+            <mxGeometry x="1085" y="331" width="185" height="27" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-93" value="生命体征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -149,25 +149,25 @@
         <mxCell id="gRRv3ZpaM_ob45SDTD8p-101" value="健康人体模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1056" y="583" width="128" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="gRRv3ZpaM_ob45SDTD8p-102" value="通过语音控制，在软件端，实时支出医生讲解的病灶位置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1056" y="630" width="128" height="36" as="geometry" />
+        <mxCell id="gRRv3ZpaM_ob45SDTD8p-102" value="通过语音识别，在终端，突出显示医生手术中正在处理的病灶位置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1056" y="630" width="149" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="9D8hjNJTg2I8TPAUC2f3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9D8hjNJTg2I8TPAUC2f3-1" target="gRRv3ZpaM_ob45SDTD8p-94">
+        <mxCell id="9D8hjNJTg2I8TPAUC2f3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9D8hjNJTg2I8TPAUC2f3-1" target="gRRv3ZpaM_ob45SDTD8p-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9D8hjNJTg2I8TPAUC2f3-1" value="标准人体模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9D8hjNJTg2I8TPAUC2f3-1" value="标准人体模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1139" y="691" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9D8hjNJTg2I8TPAUC2f3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9D8hjNJTg2I8TPAUC2f3-2">
+        <mxCell id="9D8hjNJTg2I8TPAUC2f3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9D8hjNJTg2I8TPAUC2f3-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9D8hjNJTg2I8TPAUC2f3-2" value="病灶模型库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="9D8hjNJTg2I8TPAUC2f3-2" value="病灶模型库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1060" y="789" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9D8hjNJTg2I8TPAUC2f3-6" value="生命体征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1212" y="313" width="65" height="59" as="geometry" />
+        <mxCell id="9D8hjNJTg2I8TPAUC2f3-6" value="生命体征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1212" y="400" width="65" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
