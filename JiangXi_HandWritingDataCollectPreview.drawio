@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2025-02-20T07:38:08.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="EWdhpX3orV2R1S-RwAIs" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2025-02-20T07:40:06.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" etag="In0NYBxxZ3z_E82e4uRf" version="24.2.5" type="github">
   <diagram name="第 1 页" id="9AbFuNn6isC8OYAl83xY">
-    <mxGraphModel dx="4780" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,6 +292,9 @@
         </mxCell>
         <mxCell id="16uFdj2HmigpJyk7Bwz2-92" value="状态/信息&amp;nbsp;展示装窗口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="2700" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="16uFdj2HmigpJyk7Bwz2-94" value="从这里开始&lt;div&gt;（像这个一样的黄色标注，为主要待确认的问题）&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="290" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
