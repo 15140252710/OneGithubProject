@@ -296,31 +296,28 @@
         <mxCell id="16uFdj2HmigpJyk7Bwz2-94" value="从这里开始&lt;div&gt;（像这个一样的黄色标注，为主要待确认的问题）&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFFFCC;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="40" y="65" width="290" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="16uFdj2HmigpJyk7Bwz2-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="16uFdj2HmigpJyk7Bwz2-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="16uFdj2HmigpJyk7Bwz2-97" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1750" y="2980" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q9u7wulzgyhLa9H7cx6c-1" value="硬件：&lt;div&gt;【连接设备】&lt;/div&gt;&lt;div&gt;【断开连接】&lt;/div&gt;&lt;div&gt;【设备信息】&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q9u7wulzgyhLa9H7cx6c-1" value="硬件：&lt;div&gt;【连接设备】&lt;/div&gt;&lt;div&gt;【断开连接】&lt;/div&gt;&lt;div&gt;【设备信息】&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="2250" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q9u7wulzgyhLa9H7cx6c-2" value="用户：&lt;div&gt;【个人信息】&lt;/div&gt;&lt;div&gt;【注销登录】&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q9u7wulzgyhLa9H7cx6c-2" value="用户：&lt;div&gt;【个人信息】&lt;/div&gt;&lt;div&gt;【注销登录】&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="2250" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q9u7wulzgyhLa9H7cx6c-3" value="数据：&lt;div&gt;【数据管理】&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q9u7wulzgyhLa9H7cx6c-3" value="数据：&lt;div&gt;【数据管理】&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1110" y="2250" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Q9u7wulzgyhLa9H7cx6c-5" value="用于管理当前已登录账户录入的被提取人笔迹信息&lt;div&gt;（根据情况添加）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q9u7wulzgyhLa9H7cx6c-5" value="用于管理当前已登录账户录入的被提取人笔迹信息&lt;div&gt;（根据情况添加）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1095" y="2200" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q9u7wulzgyhLa9H7cx6c-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q9u7wulzgyhLa9H7cx6c-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1215" y="2470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q9u7wulzgyhLa9H7cx6c-7" value="笔迹Data&lt;div&gt;DataGridView&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q9u7wulzgyhLa9H7cx6c-7" value="笔迹Data&lt;div&gt;DataGridView&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1150" y="2520" width="190" height="170" as="geometry" />
         </mxCell>
       </root>
