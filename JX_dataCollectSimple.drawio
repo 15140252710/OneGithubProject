@@ -78,8 +78,10 @@
         <mxCell id="2hdhjImFdKvlCasuUOon-21" value="民警确认信息无误后，点击&lt;div&gt;【开始采集】按钮&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="630" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2hdhjImFdKvlCasuUOon-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hdhjImFdKvlCasuUOon-22" target="2hdhjImFdKvlCasuUOon-67">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2hdhjImFdKvlCasuUOon-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2hdhjImFdKvlCasuUOon-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="1350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2hdhjImFdKvlCasuUOon-22" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="750" width="650" height="560" as="geometry" />
@@ -163,14 +165,16 @@
         <mxCell id="2hdhjImFdKvlCasuUOon-62" value="系统自动上传数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="647" y="1046" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2hdhjImFdKvlCasuUOon-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#C73500;" edge="1" parent="1" source="2hdhjImFdKvlCasuUOon-67" target="2hdhjImFdKvlCasuUOon-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2hdhjImFdKvlCasuUOon-67" value="完成当前被提取&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;人&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;信息采集&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715" y="1350" width="120" height="60" as="geometry" />
+        <mxCell id="2hdhjImFdKvlCasuUOon-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#C73500;" edge="1" parent="1" target="2hdhjImFdKvlCasuUOon-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="1380" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2hdhjImFdKvlCasuUOon-70" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="460" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2hdhjImFdKvlCasuUOon-72" value="点击【结束采集】" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
